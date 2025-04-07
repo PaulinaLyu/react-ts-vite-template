@@ -34,7 +34,6 @@
     "vite": "^6.2.0"
   },
   "lint-staged": {
-    "concurrent": false,
     "*.{ts,tsx,js,jsx}": [
       "eslint --fix",
       "prettier --write",
