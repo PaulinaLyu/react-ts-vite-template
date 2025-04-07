@@ -5,10 +5,6 @@ function App() {
     <>
       <div>React TS Vite Template</div>
       <Test />
-      <div>Test</div>
-
-      <div>Test</div>
-      <div>Test2</div>
     </>
   );
 }
